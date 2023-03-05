@@ -4,5 +4,5 @@
 
 ## Mass-Storage Structure
 
-* [Overview of Mass Storage Structure](mass-storage-structure/overview-of-mass-storage-structure.md)
-* [HDD Scheduling](mass-storage-structure/hdd-scheduling.md)
+* [11-1 Overview of Mass Storage Structure](mass-storage-structure/11-1-overview-of-mass-storage-structure.md)
+* [11-2 HDD Scheduling](mass-storage-structure/11-2-hdd-scheduling.md)
